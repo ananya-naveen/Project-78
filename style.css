@@ -1,0 +1,12 @@
+h1{
+    color:darkslategrey;
+    font-size: 75px;
+}
+img{
+    width: 400px;
+}
+button{
+    background-color: darkslategrey;
+    color: white;
+    width: 60px;
+}
